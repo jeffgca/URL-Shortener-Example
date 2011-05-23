@@ -17,6 +17,7 @@ Spec for this addon:
     * key binding: ( cmd+shift+u ) DONE
     * notifications implementation DONE
     * Bug: XPI install doesn't work, no errors. FIXED (?) ( Gremlins, it just started working... )
+    * adjusted uri scheme matching to allow https. FIXED
 * TODO:
     * Small window to display shortened url IN PROGRESS
     * Bug: pop-up content doesn't work (?) probably doing something wrong, need to actually read the docs.
