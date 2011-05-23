@@ -7,10 +7,12 @@ Spec for this addon:
 * Addons bar button
 * goo.gl Url shortener service implementation + tests
 * UI pop-up that displays the shortened url
+* copy the shortened url to the clipboard
+* implement notifications
 
 ####Notes
 
-* DONE:
+* __DONE__:
     * POST problems, the goo.gl url shortener API seems to want a RAW json post, which Request in jetpack currently doesn't do? Should look at the code. DONE
     * get current doc location to feed to shortener DONE
     * copy url to buffer DONE
@@ -18,7 +20,7 @@ Spec for this addon:
     * notifications implementation DONE
     * Bug: XPI install doesn't work, no errors. FIXED (?) ( Gremlins, it just started working... )
     * adjusted uri scheme matching to allow https. FIXED
-* TODO:
+* __TODO__:
     * Small window to display shortened url IN PROGRESS
     * Bug: pop-up content doesn't work (?) probably doing something wrong, need to actually read the docs.
     * research: can we determine if notifications backends are installed?
