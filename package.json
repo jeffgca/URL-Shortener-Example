@@ -5,5 +5,5 @@
     "version": "0.2", 
     "fullName": "goo.gl_shortener", 
     "id": "jid1-GWB55AAEefl6YQ", 
-    "description": "Yet Another Url Shortener Add-on."
+    "description": "Yet Another Url Shortener Add-on. Usage: Type Ctrl + Shift + u ( CMD + Shift + u on OS X ) to create a shortened url for the current tab."
 }
